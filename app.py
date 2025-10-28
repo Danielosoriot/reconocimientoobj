@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Imagen decorativa
-header_img = Image.open("anuel_detector.png")  # Puedes usar un logo de Anuel
+header_img = Image.open("anuel4.png")  # Puedes usar un logo de Anuel
 st.image(header_img, width=300)
 
 # Título principal
